@@ -1,0 +1,2 @@
+# KNNProject
+using artificial data
